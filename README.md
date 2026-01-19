@@ -21,5 +21,5 @@ Set up an addition problem, and use the coins to solve the equation, sliding up 
 <img width="924" height="550" alt="IMG_6008" src="https://github.com/user-attachments/assets/075a5ac8-4059-4065-b0bc-bf4e9c643a97" />
 
 Inspired by:  
-[Post from Renu Bala's Facebook Account](https://www.facebook.com/reel/1866737950944403)
+[Post from Renu Bala's Facebook Account](https://www.facebook.com/reel/1866737950944403)  
 [Magnetic Column-Addition Board(Hundreds–Tens–Ones) by @Bulid on MakerWorld](https://makerworld.com/en/models/1750818-magnetic-column-addition-board-hundreds-tens-ones?from=search#profileId-1861372)
