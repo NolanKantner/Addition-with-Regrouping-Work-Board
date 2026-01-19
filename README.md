@@ -2,7 +2,7 @@
 This is an interactive work board designed to help 2nd-5th grade students learn addition with regrouping with numbers up to three digits
 ![IMG_5998](https://github.com/user-attachments/assets/721290a6-184e-4734-852d-f7cbd489d655)
 
-Each set uses 65 total coins:
+Each set uses 65 total coins:  
 Coin 1: 7 coins  
 Coin 2: 8 coins  
 Coin 3: 6 coins  
@@ -13,5 +13,10 @@ Coin 7: 6 coins
 Coin 8: 6 coins  
 Coin 9: 8 coins  
 
-![IMG_6002](https://github.com/user-attachments/assets/9e1ee7af-beeb-444a-9979-4d712c5e797e)
+![Work Board with problem](https://github.com/user-attachments/assets/9e1ee7af-beeb-444a-9979-4d712c5e797e)
+
+Set up an addition problem, and use the coins to answer the equation, sliding up the 1 coins to symbolize carrying the 1.
+
+![no slide](https://github.com/user-attachments/assets/88a265d9-bae0-4ddc-bfe5-a40cee6afb31)
+![slide](https://github.com/user-attachments/assets/c2d8578d-63e6-40fb-b4de-4fec9c1aacb0)
 
